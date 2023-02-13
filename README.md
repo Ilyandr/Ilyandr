@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Ilya!)
 #### Android in my green (or gray) heart
-I am an android developer and I, probably like everyone else, like to learn something new, in which I see difficulties for myself. Currently, I am working and running one of the major federal auto parts service projects in Russia (AvtoTO), apps market: Androeed and food service in USA: CityCheers and more. But in my free time I write my own projects (for example, a vpn application, a discount card wallet). I invest original chips in my projects (such as smart vpn traffic mode for applications, auto-search for discount cards by location, etc..). Currently I am studying jetpack compose, Kotlin-multiplatform and the basics of KSP (Kotlin Symbol Processing API). Something like this :)
+I am an android developer and I, probably like everyone else, like to learn something new, in which I see difficulties for myself. Currently, I am middle android developer in WebAnt company (RU, Rostov-in-Don). Also in my spare time I know personal projects and invest original chips (such as smart vpn traffic mode for applications, auto-search for discount cards by location, etc..). Currently I am studying now: jetpack compose, Kotlin-multiplatform and the basics of KSP (Kotlin Symbol Processing API). Something like this :)
 
 ------------------
-My apps: 
+My projects: 
 
 [<img src='https://play-lh.googleusercontent.com/Jx6Hy6_eMnKOiI_lBoVzvrp0nq-ptIV-mLTj7K2DE7MEA36mF8gRh2dGLoTlxY9Or6U=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.mcard)
 
