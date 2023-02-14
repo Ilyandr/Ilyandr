@@ -6,15 +6,12 @@ I am an android developer and I, probably like everyone else, like to learn some
 My projects: 
 
 [<img src='https://play-lh.googleusercontent.com/Jx6Hy6_eMnKOiI_lBoVzvrp0nq-ptIV-mLTj7K2DE7MEA36mF8gRh2dGLoTlxY9Or6U=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.mcard)
-
 [<img src='https://play-lh.googleusercontent.com/mqoghhjPWzLnzsd17qK_lBOU4EyYNDXSbIDvOBWtQXYAcXM1mX5VPYuYayiEV-BfTbM=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.supplevpn)
 
 My work projects:
   
 [<img src='https://play-lh.googleusercontent.com/ORwhhiW7Wn1CguTaXVI_1vgDFmQ2eaWfs5rLEN5VH1wttl6CpRUnyW63CvySyEtFDmg=w240-h480-rw' alt='github' width='32' height='32'>](https://play.google.com/store/apps/details?id=ru.avtoto.app)
-  
 [<img src='https://play-lh.googleusercontent.com/ftVRlZxov0miE7vAEBmUB9Sm8ZPNGyAIUVKxUELEgH3npqeoiYDeVubAfxVi84S7_ia8=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=com.expresscheck) 
-
 [<img src='https://play-lh.googleusercontent.com/r9ZI-qg736pO-VBflASU2HCTKZRAZQWf0kwrYP8GBa2IA65r5-AGOpA78jYVLigO7VU=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=ru.webant.tizer)
 
 ------------------
