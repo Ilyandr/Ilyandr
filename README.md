@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ilya!)
 #### Android developer
-Currently I am studying now: jetpack compose, swiftUI, Kotlin-multiplatform (Friendly project) and the basics of KSP (Kotlin Symbol Processing API) :)
+Currently I am studying now: jetpack compose, swiftUI, Kotlin-multiplatform (Friendly project) and the basics of KSP (Kotlin Symbol Processing API :)
 
 ------------------
 My projects: 
