@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ilya!)
-#### Android in my green (or gray) heart
-I am an android developer and I, probably like everyone else, like to learn something new, in which I see difficulties for myself. Currently, I am middle android developer in WebAnt company (RU, Rostov-in-Don). Also in my spare time I know personal projects and invest original chips (such as smart vpn traffic mode for applications, auto-search for discount cards by location, etc..). Currently I am studying now: jetpack compose, Kotlin-multiplatform (Friendly project) and the basics of KSP (Kotlin Symbol Processing API). Something like this :)
+#### Android developer
+Currently I am studying now: jetpack compose, swiftUI, Kotlin-multiplatform (Friendly project) and the basics of KSP (Kotlin Symbol Processing API) :)
 
 ------------------
 My projects: 
