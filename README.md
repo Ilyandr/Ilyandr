@@ -1,10 +1,10 @@
-### Hi there 👋, My name is Ilya!)
+### Hi there 👋, My name is Ilya!
 #### Android developer
-Currently I am studying now: jetpack compose, swiftUI, Kotlin-multiplatform (Friendly project) and the basics of KSP (Kotlin Symbol Processing API :)
 
 ------------------
 My projects: 
 
+[<img src='https://play-lh.googleusercontent.com/g-xNrz4urC2p9ZkjrrPSKuY8OIJZ67NkDwEW1b958MDIzCm9JLvaga4xZ1FRdqcP3D4=w480-h960-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.keyhop)
 [<img src='https://play-lh.googleusercontent.com/8BMHsL3vqSGqP5O-PBoYXxtZMBa1UyKwxbUBVgjbvHlZliA-bg4DVh2mc8Uz-l6K664t=w480-h960-rw' alt='github'  width='32' height='32'>](https://app-friendly.ru/)
 [<img src='https://play-lh.googleusercontent.com/Jx6Hy6_eMnKOiI_lBoVzvrp0nq-ptIV-mLTj7K2DE7MEA36mF8gRh2dGLoTlxY9Or6U=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.mcard)
 [<img src='https://play-lh.googleusercontent.com/mqoghhjPWzLnzsd17qK_lBOU4EyYNDXSbIDvOBWtQXYAcXM1mX5VPYuYayiEV-BfTbM=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=gcu.product.supplevpn)
@@ -12,13 +12,14 @@ My projects:
 My work projects:
   
 [<img src='https://static.rustore.ru/apk/5364415/content/ICON/abc53f48-78be-40cc-bb1b-a49173057095.png' alt='github' width='32' height='32'>](https://apps.rustore.ru/app/ru.rosbank.android.beta)
+[<img src='https://static.rustore.ru/imgproxy/noByruCZebSPZIYR_Ur6jycY7XCoR4yVGqNyotKyais/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU0ODY0NC9jb250ZW50L0lDT04vYjI0NDVkNGMtNmI5Yy00OTlmLTgyM2UtODg4ZWVhNTZjNmEwLnBuZw==.webp' alt='github' width='32' height='32'>](https://www.rustore.ru/catalog/app/ru.gazprombank.mobile.gpbbusiness)
 [<img src='https://play-lh.googleusercontent.com/ORwhhiW7Wn1CguTaXVI_1vgDFmQ2eaWfs5rLEN5VH1wttl6CpRUnyW63CvySyEtFDmg=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=ru.avtoto.app) 
 [<img src='https://play-lh.googleusercontent.com/ftVRlZxov0miE7vAEBmUB9Sm8ZPNGyAIUVKxUELEgH3npqeoiYDeVubAfxVi84S7_ia8=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=com.expresscheck) 
 [<img src='https://play-lh.googleusercontent.com/r9ZI-qg736pO-VBflASU2HCTKZRAZQWf0kwrYP8GBa2IA65r5-AGOpA78jYVLigO7VU=w240-h480-rw' alt='github'  width='32' height='32'>](https://play.google.com/store/apps/details?id=ru.webant.tizer)
 
 ------------------
 
-Languages: Kotlin / Java / Swift (the basics of the basics) / XML 🔭 
+Languages: Kotlin / Java / Swift (the basics of the basics) / Little C++ 🔭 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ilyandr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://play.google.com/store/apps/dev?id=6227604449612294907)  
 
